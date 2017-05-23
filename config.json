@@ -1,0 +1,16 @@
+{
+	"rest_server" : {
+		"port" : 3001
+	},
+	
+	"time_zone" : "Asia/Shanghai",
+	
+	"client_heart_beat_check" : {
+		"timeout" : 400,
+		"interval" : 120
+	},
+	
+	"use_secure_layer": false,
+	
+	"wait_re_message_time" : 15
+}

@@ -1,0 +1,9 @@
+{
+  "name": "tcp-comunication",
+  "version": "0.0.1",
+  "description": "TCP server",
+  "dependencies": {
+    "moment": "2.13.0",
+    "moment-timezone": "^0.5.4"
+  }
+}
