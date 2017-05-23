@@ -1,5 +1,8 @@
 # vote
-多个app，使用tcp长连接，动态投票选出一个master
+多个app，使用tcp长连接，动态投票选出一个primary
+
+## 简介
+看mongodb的时候，知道它的Replica Set能选举有一个primary和其他的多个secondaries。粗略了解了一下它的方法，想动手实现很简单的选举，以下效果。
 
 ## 测试
 
